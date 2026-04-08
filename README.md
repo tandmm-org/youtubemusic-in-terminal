@@ -1,5 +1,7 @@
 # YouTube Music Terminal
 
+A little fun script to help make my time in the terminal less boring. 
+
 A keyboard-driven terminal client for YouTube Music. Search for songs, play audio, manage a queue, and control playback — all without leaving the terminal.
 
 ## Requirements
