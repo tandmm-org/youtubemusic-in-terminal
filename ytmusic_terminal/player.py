@@ -35,6 +35,7 @@ class MPVPlayer:
             "--really-quiet",
             f"--input-ipc-server={self.SOCKET_PATH}",
             "--ytdl-format=bestaudio/best",
+            "--ytdl-raw-options=extractor-args=youtube:player_client=web",
             url,
         ]
         try:
